@@ -1,0 +1,22 @@
+{
+  "name": "tutos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "i": "^0.3.6",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.3",
+    "pg": "^7.4.0",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}
